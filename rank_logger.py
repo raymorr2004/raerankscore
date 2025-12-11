@@ -1,7 +1,7 @@
 import requests
 import subprocess
 
-API_URL = "https://api.the-finals-leaderboard.com/v1/leaderboard/s8/crossplay?name=Rae_Raeee_TTV%234354".replace("#", "%23")
+API_URL = "https://api.the-finals-leaderboard.com/v1/leaderboard/s9/crossplay?name=Rae_Raeee_TTV%234354".replace("#", "%23")
 FILE_PATH = "docs/latest_rank.txt"
 
 def get_rank_info():
